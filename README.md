@@ -4,8 +4,8 @@ The 'Search by Location' Web API enables developers to query and retrieve inform
 
 <h2>Workforce Development Boards and Youth Committees APIs<h2>
 
-<a href="https://www.careeronestop.org/Developers/WebAPI/BoardsandCouncils/search-by-location.aspx">Search By Location</a>
+<a href="https://www.careeronestop.org/Developers/WebAPI/BoardsandCommittees/search-by-location.aspx">Search By Location</a>
 
-<a href="https://www.careeronestop.org/Developers/WebAPI/BoardsandCouncils/search-by-id.aspx">Search By ID</a>
+<a href="https://www.careeronestop.org/Developers/WebAPI/BoardsandCommittees/search-by-id.aspx">Search By ID</a>
 
-
+<a href="https://www.careeronestop.org/Developers/WebAPI/BoardsandCommittees/get-all-boards.aspx">Get All Boards</a>
